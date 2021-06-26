@@ -1,2 +1,2 @@
-# saumittra-sarker.github.io
+# saumittra.github.io
 Config files for my GitHub profile.
